@@ -24,17 +24,13 @@
 
 &nbsp;
 
+&nbsp;
+
 <h2 align="center">
 Full Stack Developer :heart: :computer:
 </h2>
 
 &nbsp;
-
-## :paperclip: How to reach me:
-<span >
-<a href="https://www.linkedin.com/in/celenysantana/" ><img width="5%" src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:celenyandrea@gmail.com"> <img width="5%" src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/logos/gmail-icon%20green.png">
-</span>
 
 ### 📫 How to reach me: ...
   <p>
@@ -42,7 +38,7 @@ Full Stack Developer :heart: :computer:
       <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
     </a>   
     <a align='right' href="mailto:celenyandrea@gmail.com">
-      <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
     </a>  
   </p>
 
@@ -50,7 +46,7 @@ Full Stack Developer :heart: :computer:
 
 ## :pushpin: My proyects
 
-<h3>App VideoGames</h3>
+<h3 href="https://github.com/CelenyAndrea/PI-Videogames" target="_blank">App VideoGames</h3>
 <p>
   <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/videogames/Landing.png" width="30%"></a>
   <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/videogames/Home.png" width="30%"></a>
