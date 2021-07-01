@@ -1,4 +1,4 @@
-![Hi, I'm Celeny](https://media.giphy.com/media/WiRIUB7eR7WJJTQiV2/giphy.gif)
+![Hi, I'm Celeny]("https://media.giphy.com/media/WiRIUB7eR7WJJTQiV2/giphy.gif" align="center")
 
 <h2 align="center">
 Full Stack Developer :heart: :computer:
