@@ -22,18 +22,29 @@
   <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 </p>
 
+&nbsp;
 
 <h2 align="center">
 Full Stack Developer :heart: :computer:
 </h2>
 
-&nbsp;&nbsp;
+&nbsp;
 
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/celenysantana/" ><img width="5%" src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="celenyandrea@gmail.com" ><img width="5%" src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/logos/gmail-icon%20green.png">
+<a href="mailto:celenyandrea@gmail.com"> <img width="5%" src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/logos/gmail-icon%20green.png">
 </span>
+
+### 📫 How to reach me: ...
+  <p>
+    <a href="https://www.linkedin.com/in/celenysantana/">
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
+    </a>   
+    <a align='right' href="mailto:celenyandrea@gmail.com">
+      <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+    </a>  
+  </p>
 
 &nbsp;
 
@@ -52,3 +63,9 @@ Full Stack Developer :heart: :computer:
 </p>
 
 &nbsp;
+
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/celenysantana/" ><img width="5%" src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="mailto:celenyandrea@gmail.com"> <img width="5%" src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/logos/gmail-icon%20green.png">
+</span>
