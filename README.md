@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/WiRIUB7eR7WJJTQiV2/giphy.gif" alt="Hi, I'm Celeny" href="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/CV.png" align="left">
+<a href="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/CV.png" target="_blank"> <img src="https://media.giphy.com/media/WiRIUB7eR7WJJTQiV2/giphy.gif" alt="Hi, I'm Celeny" align="left"/> </a>
 
 <p width='40%' height="100%" align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5" width="50" height="50"/> </a>   
