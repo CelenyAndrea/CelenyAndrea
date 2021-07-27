@@ -26,7 +26,7 @@
 ******
 
 <h3>
-I'm a proactive, responsible, social and hard worker full stack developer. I love to undertake new projects and learn with each challenge that is presented by doing them. I am also passionate about learning new technologies. :heart: :computer:
+I love to undertake new projects and learn with each challenge that is presented by doing them. I am also passionate about learning new technologies. I'm a proactive, responsible, social and hard worker full stack developer. :heart: :computer:
 </h3>
 
 &nbsp;
