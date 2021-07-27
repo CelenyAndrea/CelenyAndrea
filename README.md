@@ -25,9 +25,9 @@
 &nbsp;
 ******
 
-<h2 align="center">
-Full Stack Development :heart: :computer:
-</h2>
+<h3>
+I am a proactive, responsible, social and hard-working full stack developer. I love to undertake new projects and learn with each challenge that comes with doing them. I am also passionate about learning new technologies. :heart: :computer:
+</h3>
 
 &nbsp;
 
