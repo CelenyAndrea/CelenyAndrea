@@ -36,14 +36,14 @@ I love to undertake new projects and learn with each challenge that is presented
 <h3><a href='https://github.com/juancereceda/PG-Henry'>🎥 Autocinema</a></h3>
 
 <p>
-  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Home.png" width="30%"></a>
-  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/ComingSoon.png" width="30%"></a>
-  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Billboart.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Home.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/ComingSoon.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Billboart.png" width="30%"></a>
 </p>
 <p>
-  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/detail.png" width="30%"></a>
-  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Faq.png" width="30%"></a>
-  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Admin.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/detail.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Faq.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/admin.png" width="30%"></a>
 </p>
 
 &nbsp;
