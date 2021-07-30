@@ -33,8 +33,22 @@ I love to undertake new projects and learn with each challenge that is presented
 
 ## :pushpin: My proyects
 
-<h3>App VideoGames</h3>
-#### [Link to Repository](https://github.com/CelenyAndrea/PI-Videogames)
+<h3><a href='https://github.com/juancereceda/PG-Henry'>🎥 Autocinema</a></h3>
+
+<p>
+  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Home.png" width="30%"></a>
+  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/ComingSoon.png" width="30%"></a>
+  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Billboart.png" width="30%"></a>
+</p>
+<p>
+  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/detail.png" width="30%"></a>
+  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Faq.png" width="30%"></a>
+  <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Admin.png" width="30%"></a>
+</p>
+
+&nbsp;
+
+<h3><a href='https://github.com/CelenyAndrea/PI-Videogames'>🎮 Videogames App</a></h3>
 
 <p>
   <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/videogames/Landing.png" width="30%"></a>
@@ -49,7 +63,7 @@ I love to undertake new projects and learn with each challenge that is presented
 
 &nbsp;
 
-<h3>App Clima</h3>
+<h3><a href='https://github.com/CelenyAndrea/AppClima'>🌥️ App Clima</a></h3>
 <p>
   <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/clima/Clima.png" width="30%"></a>
   <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/clima/ClimaSearch.png" width="30%"></a>
