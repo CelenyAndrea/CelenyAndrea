@@ -1,4 +1,4 @@
-<a href="https://www.canva.com/design/DAEiV51cSsk/9wLquQVijKnKxGvyULL4cw/view?utm_content=DAEiV51cSsk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"target="_blank"> <img src="https://media.giphy.com/media/WiRIUB7eR7WJJTQiV2/giphy.gif" alt="Hi, I'm Celeny" align="left"/> </a>
+<a href="https://www.canva.com/design/DAEiV51cSsk/9wLquQVijKnKxGvyULL4cw/view?utm_content=DAEiV51cSsk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> <img src="https://media.giphy.com/media/WiRIUB7eR7WJJTQiV2/giphy.gif" alt="Hi, I'm Celeny" align="left"/> </a>
 
 <p width='40%' height="100%" align="center"> 
   <a href="https://www.w3.org/html/"target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5" width="50" height="50"/> </a>   
