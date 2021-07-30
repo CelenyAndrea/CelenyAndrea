@@ -33,7 +33,9 @@ I love to undertake new projects and learn with each challenge that is presented
 
 ## :pushpin: My proyects
 
-<h3 href="https://github.com/CelenyAndrea/PI-Videogames">App VideoGames</h3><a href="https://github.com/CelenyAndrea/PI-Videogames"></a>
+<h3>App VideoGames</h3>
+#### [Link to Repository](https://github.com/CelenyAndrea/PI-Videogames)
+
 <p>
   <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/videogames/Landing.png" width="30%"></a>
   <a><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/videogames/Home.png" width="30%"></a>
