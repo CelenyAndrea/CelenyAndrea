@@ -42,7 +42,7 @@ I love to undertake new projects and learn with each challenge that is presented
 </p>
 <p>
   <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/detail.png" width="30%"></a>
-  <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Faq.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Carrito.png" width="30%"></a>
   <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/admin.png" width="30%"></a>
 </p>
 
