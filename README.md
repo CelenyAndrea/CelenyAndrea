@@ -33,17 +33,17 @@ I love to undertake new projects and learn with each challenge that is presented
 
 ## :pushpin: My proyects
 
-<h3><a href='https://github.com/juancereceda/PG-Henry'>🎥 Autocinema</a></h3>
+<h3><a href='https://github.com/juancereceda/PG-Henry' target="_blank">🎥 Autocinema</a></h3>
 
 <p>
-  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Home.png" width="30%"></a>
-  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/ComingSoon.png" width="30%"></a>
-  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Billboart.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Home.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/ComingSoon.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Billboart.png" width="30%"></a>
 </p>
 <p>
-  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/detail.png" width="30%"></a>
-  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Faq.png" width="30%"></a>
-  <a href='https://henry-movie-app.vercel.app'><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/admin.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/detail.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/Faq.png" width="30%"></a>
+  <a href='https://henry-movie-app.vercel.app' target="_blank"><img src="https://github.com/CelenyAndrea/CelenyAndrea/blob/main/images/autocine/admin.png" width="30%"></a>
 </p>
 
 &nbsp;
